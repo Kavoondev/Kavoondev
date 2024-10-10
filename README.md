@@ -1,6 +1,6 @@
 ## Hi there I'm Alex!👋
 ---
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/Kavoondev/count.svg)
 ---
 ### Good in
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
