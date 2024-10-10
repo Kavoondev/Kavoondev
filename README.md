@@ -1,21 +1,4 @@
-## Hi there 👋
-<!--
-**Kavoondev/Kavoondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Oleksii! 👋 
-
+## Hi there I'm Oleksii!👋
 ---
 
 ### 🌱 I’m currently learning and mastering:
@@ -31,7 +14,6 @@ Here are some ideas to get you started:
 - **Languages**: SQL, Python, HTML5, CSS3
 - **Tools**: Power BI, Visual Studio Code, Jupyter, Colab, Git, GitHub, Markdown
 - **Cloud**: AWS, Azure, GCP - in process...
-
 ---
 
 ### 💡 About Me:
