@@ -27,13 +27,10 @@
 ### Python Projects
 
 ### Data Analysis Projects
-- 
 
 ### Certification:
-[Google](https://www.google.com)
-
-09/11/2024 - Coursera [IBM Data Analyst Professional Certificate](https://github.com/Kavoondev/Certificates/blob/main/Coursera%20IBM%20DATA%20ANALYST%20CERTIFICATE.pdf) is done
-13/11/2024 - I also received a [Google Data Analytics Professional Certificate](https://github.com/Kavoondev/Certificates/blob/main/Coursera%20GOOGLE%20DATA%20ANALYTICS%20CERTIFICATE.pdf) on Coursera.
+- 09/11/2024 - Coursera [IBM Data Analyst Professional Certificate](https://github.com/Kavoondev/Certificates/blob/main/Coursera%20IBM%20DATA%20ANALYST%20CERTIFICATE.pdf) is done;
+- 13/11/2024 - I also received a [Google Data Analytics Professional Certificate](https://github.com/Kavoondev/Certificates/blob/main/Coursera%20GOOGLE%20DATA%20ANALYTICS%20CERTIFICATE.pdf) on Coursera;
 ---
 
 <!--
