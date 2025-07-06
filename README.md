@@ -1,36 +1,37 @@
-## Hi there I'm Alex!👋
+## Hi there I'm Lex!👋
 ---
 ![Visitor Count](https://profile-counter.glitch.me/Kavoondev/count.svg)
 ---
-### Good in
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### I work with
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure SQL Database](https://img.shields.io/badge/Azure_SQL_Database-004E8C?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### I have practice with
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-1C2526?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-6B7280?style=for-the-badge)
+![Data Lake](https://img.shields.io/badge/Data_Lake-3B82F6?style=for-the-badge)
 
-### Python Projects
 
-### Data Analysis Projects
+### Data Engineering Projects
 
 ### Certification:
 - 09/11/2024 - Coursera [IBM Data Analyst Professional Certificate](https://github.com/Kavoondev/Certificates/blob/main/Coursera%20IBM%20DATA%20ANALYST%20CERTIFICATE.pdf) is done;
 - 13/11/2024 - I also received a [Google Data Analytics Professional Certificate](https://github.com/Kavoondev/Certificates/blob/main/Coursera%20GOOGLE%20DATA%20ANALYTICS%20CERTIFICATE.pdf) on Coursera;
+- 04/06/2025 - I also received a [Databricks Fundamentals]
+- 05/07/2025 - I also received a [Apache Airflow 3 Fundamentals]
+
+
 ---
 
 <!--
@@ -65,13 +66,14 @@
 ---
 
 ### 💻 Current Focus:
-- Expanding my knowledge in **Data Visualization** and **Cloud Computing**.
-- Building personal projects to showcase my expertise in **SQL** and **Data Analysis**.
+- Expanding my knowledge in **Data Engineering** and **Cloud**.
+- Building personal projects to showcase my expertise in **SQL** and **Data Engineering**.
 
 ---
-<!--
+
 ### 📚 Check out my latest blogs:
-- **[Best Practices for Writing Efficient SQL Queries](https://medium.com/yourprofile/best-sql-queries)**
+- **[Best Practices for Writing Efficient SQL Queries](https://databylex.github.io/)**
+<!--
 - **[Data Analytics with Power BI: A Step-by-Step Guide](https://medium.com/yourprofile/powerbi-guide)**
 - **[Deploying a Machine Learning Model on AWS](https://medium.com/yourprofile/deploy-ml-model-aws)**
 ---
