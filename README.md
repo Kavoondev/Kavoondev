@@ -7,6 +7,7 @@ I'm a passionate Data Engineer specializing in **Databricks**, **Azure**, and **
 ## Technologies I Work With
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-017CEE?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -15,17 +16,17 @@ I'm a passionate Data Engineer specializing in **Databricks**, **Azure**, and **
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## My Skills
-- **Data Engineering**: Designing and maintaining robust data pipelines, ETL processes, and data warehousing solutions.
-- **Cloud Platforms**: Proficient in Azure services, including Databricks, Data Factory, and SQL Database.
-- **SQL**: Advanced skills in writing and optimizing complex SQL queries for data manipulation and analysis.
-- **Data Modeling**: Creating efficient data models for analytics and reporting.
+- **Data Engineering**: Designing and maintaining robust data pipelines, ETL/ELT processes, and data warehousing solutions.
+- **Cloud Platforms**: Proficient in Azure services, including Databricks, Oracle Cloud Infrastructure (OCI) for scalable data solutions..
+- **Spark & Databricks**: Building high-performance data processing pipelines using Apache Spark and Databricks.
+- **SQL & dbt**: Advanced skills in writing optimized SQL queries and using dbt for data transformation.
 - **Automation**: Streamlining data workflows with Python, PySpark, and Bash scripting.
 
 ---
@@ -56,6 +57,7 @@ I'm a passionate Data Engineer specializing in **Databricks**, **Azure**, and **
 - [Google Data Analytics Professional Certificate](https://github.com/Kavoondev/Certifications/blob/main/Coursera%20GOOGLE%20DATA%20ANALYTICS%20CERTIFICATE.pdf) - 13/11/2024
 - [Databricks Fundamentals](https://databylex.github.io/) - 04/06/2025
 - [Apache Airflow 3 Fundamentals](https://databylex.github.io/) - 05/07/2025
+- [dbt Fundamentals](https://databylex.github.io/) - 14/07/2025
 
 ---
 
@@ -87,9 +89,9 @@ I'm a passionate Data Engineer specializing in **Databricks**, **Azure**, and **
 ---
 
 ## Fun Fact
-I love optimizing SQL queries and automating tasks with Python scripts to make data engineering more efficient!
+I love optimizing SQL queries and automating data workflows with Python and dbt to make data engineering seamless!
 
 ---
 
 ## Last Updated
-- **Date**: July 12, 2025
+- **Date**: July 16, 2025
