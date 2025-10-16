@@ -4,8 +4,6 @@ I'm a dedicated Junior Data Engineer specializing in Azure Data Engineering, Dat
 
 I am actively engaged in and interested in on-premises to cloud database migrations and Data Integration Engineering, ensuring seamless transitions and robust data flows across hybrid environments. Explore my repositories for real-world projects in Azure Data Factory, Delta Lake, and streaming ETL. Let's connect to discuss how I can contribute to your data engineering team!
 
-**Keywords**: Data Engineer, ETL/ELT Developer, Azure Data Factory, Databricks, Apache Spark, SQL Optimization, dbt Transformations, Apache Airflow Orchestration, Data Pipelines, Cloud Data Engineering, Python PySpark, Data Integration, On-Premises to Cloud Migration, Remote Data Engineer Ukraine.
-
 ---
 
 ## Technologies I Work With
@@ -83,7 +81,7 @@ I am actively engaged in and interested in on-premises to cloud database migrati
 - Enhancing **multi-cloud ELT** solutions using **OCI** alongside **Azure**.
 - Deepening expertise in on-premises to cloud database migrations and Data Integration Engineering for hybrid cloud environments, including tools like Azure Database Migration Service and integration patterns for legacy systems.
 
-#DataEngineering #Azure #Databricks #ETL #SQL #dbt #Spark #RemoteJobs
+**Keywords**: Data Engineer, ETL/ELT Developer, Azure Data Factory, Databricks, Apache Spark, SQL Optimization, dbt Transformations, Apache Airflow Orchestration, Data Pipelines, Cloud Data Engineering, Python PySpark, Data Integration, On-Premises to Cloud Migration, Remote Data Engineer Ukraine.
 
 ---
 
