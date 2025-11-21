@@ -1,8 +1,10 @@
 # Hi there, I'm Data Engineer Lex! 👋
 
-I'm a dedicated Junior Data Engineer specializing in Azure Data Engineering, Databricks, Spark, and SQL. With hands-on experience in building scalable ETL/ELT pipelines, data integration, and cloud-based data lakes.
+I’m a Data Engineer specializing in **Azure Data Factory**, **Databricks (PySpark + Delta Lake)**, **Microsoft Fabric**, and **cloud-based data integration**.  
+I focus on building **scalable ETL/ELT pipelines**, **metadata-driven ingestion frameworks**, and **hybrid on-prem → cloud migrations**.
 
-I am actively engaged in and interested in on-premises to cloud database migrations and Data Integration Engineering, ensuring seamless transitions and robust data flows across hybrid environments. Explore my repositories for real-world projects in Azure Data Factory, Delta Lake, and streaming ETL. Let's connect to discuss how I can contribute to your data engineering team!
+My experience includes real-world enterprise data integration projects:  
+designing ingestion frameworks, orchestrating pipelines, automating DDL, implementing CDC, and optimizing Delta Lake transformations.
 
 ---
 
@@ -29,37 +31,40 @@ I am actively engaged in and interested in on-premises to cloud database migrati
 
 ---
 
-## My Skills
-- **Data Engineering & Pipelines**: Expertise in **ETL/ELT processes**, **data warehousing (DWH)**, and building scalable pipelines with **Azure Data Factory**, **Databricks**, and **Delta Lake** for batch and streaming data.
-- **Cloud Platforms**: Advanced proficiency in **Azure** (ADF, Synapse, Cosmos DB, ADLS Gen2), **OCI** and multi-cloud data integration.
-- **Big Data Processing**: High-performance ETL with **Apache Spark (PySpark)**, **Unity Catalog**, and **streaming pipelines** using **Apache Airflow**.
-- **SQL & Analytics**: Optimized **SQL queries** (MS SQL, PostgreSQL, MySQL), **dbt** for transformations, and visualization with **Power BI** and **Tableau**.
-- **Automation & DevOps**: Scripting in **Python**, **Bash**, containerization with **Docker**, and monitoring with **KQL**.
+## ⚡ Core Strengths
+
+- **Cloud Data Engineering (Azure / Microsoft Fabric / ADLS Gen2)**
+- **ETL/ELT Architecture & Data Integration Pipelines**
+- **Apache Spark (PySpark) & Databricks Delta Lake**
+- **Metadata-driven automation & orchestration**
+- **Hybrid data flows:** on-premises → cloud migrations
+- **SQL engineering:** performance tuning, modeling, DWH concepts
+- **DevOps for Data:** CI/CD, automation, scripting (Python & Bash)
+
 
 ---
 
-## Featured Projects
-### 1. Azure Data Pipeline for Retail Analytics
-   - **Description**: Developed an end-to-end data pipeline to process retail sales data, enabling real-time analytics for business decision-making.
-   - **Technologies Used**: Databricks, Azure Data Factory, Azure SQL Database, Power BI.
-   - **Key Achievements**: Reduced data processing time by 40% and enabled daily reporting dashboards.
-   - **GitHub Repo**: [Link to repo]
+## 🏗 Featured Project
 
-### 2. Databricks ETL for IoT Sensor Data
-   - **Description**: Built an ETL pipeline to process IoT sensor data, transforming raw data into actionable insights for predictive maintenance.
-   - **Technologies Used**: Databricks, Python (PySpark), SQL.
-   - **Key Achievements**: Improved data quality by 25% and supported machine learning model integration.
-   - **GitHub Repo**: [Link to repo]
+### 🔹 Metadata-Driven ADF + Databricks Integration Platform  
+**Role:** Data Integration Engineer
 
-### 3. SQL Optimization for E-commerce Database
-   - **Description**: Optimized SQL queries for a high-traffic e-commerce database, enhancing performance and user experience.
-   - **Technologies Used**: SQL Server, Azure SQL Database.
-   - **Key Achievements**: Reduced query execution time by 30%, improving application responsiveness.
-   - **GitHub Repo**: [Link to repo]
+A real-world enterprise solution developed in a cross-functional team.
+
+**Highlights:**
+- Dynamic, metadata-driven ingestion for multiple systems  
+- Automated DDL execution for external Delta tables  
+- Delta Lake CDC, schema validation, incremental loads  
+- Multi-layer architecture: Raw → Bronze → Silver  
+- Control tables, audit logs, structured notifications
+
+➡️ **Repository:** https://github.com/Kavoondev/Data-Engineering-Portfolio  
+➡️ **Documentation & Architecture:** https://databylex.github.io/
 
 ---
 
 ## Certifications
+- [DP-600: Microsoft Fabric Analytics Engineer]() – November 21, 2025
 - [Databricks Certified Data Engineer Associate]() – October 13, 2025
 - [Microsoft Azure Data Fundamentals (DP-900)](https://github.com/Kavoondev/Certifications/blob/main/DP-900_Certificate.pdf) – September 20, 2025
 - [Microsoft Azure Fundamentals (AZ-900)](https://github.com/Kavoondev/Certifications/blob/main/AZ-900_Certificate.pdf) – September 28, 2025
@@ -100,10 +105,9 @@ I am actively engaged in and interested in on-premises to cloud database migrati
 
 ---
 
-## Fun Fact
-I love optimizing SQL queries and automating data workflows with Python and dbt to make data engineering seamless!
+## 🧩 Fun Fact  
+I enjoy transforming messy operational data into clean, scalable pipelines — and optimizing them until they run like a perfectly tuned engine.
 
 ---
 
-## Last Updated
-- **Date**: Oktober 16, 2025
+## Last Updated: **21 Nov 2025**
