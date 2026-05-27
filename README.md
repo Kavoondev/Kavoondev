@@ -1,33 +1,8 @@
 # Hi there, I'm Lex 👋  
 ## Cloud Data Engineer | Data Integration | BigQuery | Databricks | Azure | Microsoft Fabric
 
-I’m a Data Engineer focused on building **scalable data pipelines, cloud-based data platforms, and analytics-ready data models**.
-
-My core expertise is in:
-
-- **Cloud Data Engineering**
-- **ETL/ELT pipeline development**
-- **Data integration and migration**
-- **BigQuery, Databricks, Azure Data Factory, Microsoft Fabric**
-- **Apache Airflow orchestration**
-- **SQL-based transformation logic**
-- **Analytics and reporting data layers**
-
+I’m a Data Engineer focused on building **scalable data pipelines, cloud-based data platforms, and analytics-ready data models**.  
 I work with enterprise-style data platforms where reliability, clear architecture, maintainability, and business value matter.
-
----
-
-## Core Data Engineering Focus
-
-- Designing and implementing **ETL/ELT pipelines**
-- Building **aggregation layers and reporting datasets**
-- Developing **BigQuery SQL transformations**
-- Orchestrating workflows with **Apache Airflow / Cloud Composer**
-- Working with **Databricks, PySpark, Delta Lake, and Lakehouse architecture**
-- Implementing **metadata-driven ingestion frameworks**
-- Supporting **cloud and database migration scenarios**
-- Creating documentation for data flows, mappings, and technical design
-- Applying AI tools to improve engineering productivity and solution design
 
 ---
 
@@ -61,6 +36,20 @@ I work with enterprise-style data platforms where reliability, clear architectur
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Core Data Engineering Focus
+
+My core expertise is in:
+
+- **Cloud Data Engineering**
+- **ETL/ELT pipeline development**
+- **Data integration and migration**
+- **BigQuery, Databricks, Azure Data Factory, Microsoft Fabric**
+- **Apache Airflow orchestration**
+- **SQL-based transformation logic**
+- **Analytics and reporting data layers**
 
 ---
 
